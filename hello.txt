@@ -1,3 +1,6 @@
 Hello, this is a git playground
 Hello again, this is more words from the feature branch feature/add-more-word-to-hello
 Here is even more words to the hello.txt file
+more words
+more works
+more and more
